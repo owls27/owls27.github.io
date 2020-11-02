@@ -1,0 +1,83 @@
+html{
+    background-image: url(../Images/owlinbackground.jpg)
+    }
+
+body{
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+body{
+    text-align: center;
+    image-orientation: center;
+    font-family: arial,'Luckiest Guy', cursive; 'Cabin Sketch', cursive;
+ 
+}
+
+h1{
+  font-family:'Julius Sans One', sans-serif;
+  font-size: 72pt;
+  color:black;
+  border-top: 2px doted #686143;
+  border-bottom: :2px dotted #686143;
+  text-transform:uppercase;
+  }
+
+
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+top: 0;
+}
+
+
+li{
+  float: left;
+  font-size: 30pt;
+}
+
+li a{
+  list-style-type: none;
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 50pt;
+  color:black;
+  text-decoration:none;
+  vertical-align: baseline;
+  display: block;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+
+}
+
+li a:hover {
+
+       color:rebeccapurple;
+       font-family:'Cabin Sketch', cursive;
+       font-size: 56pt;
+}
+
+
+p{
+ margin-left: 400px;
+ margin-right: 400px;
+ font-family:arial;
+ font-size: 30pt;
+ color:black;
+ line-height:50pt;
+ }
+
+img{
+   border: medium soild #666;
+   box-shadow:5px 5px 5px rgba(0,0,0,3);
+   }
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+
+}
+
